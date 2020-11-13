@@ -1,0 +1,12 @@
+把字符串转换成长整型数据
+  unsigned long strtoul(const char *nptr,char **endptr,int base);
+参数
+  nptr-- 要转换为无符号长整数的字符串。
+  endptr-- 对类型为 char* 的对象的引用，其值由函数设置为 nptr 中数值后的下一个字符。
+  base-- 基数，必须介于 2 和 36（包含）之间，或者是特殊值 0。
+  
+  参数base代表采用的进制方式，如base值为10则采用10进制，若base值为16则采用16进制数等。
+返回值
+  返回转换后的长整型数，否则返回ERANGE并将错误代码存入errno中。
+
+
