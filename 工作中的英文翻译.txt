@@ -1,0 +1,62 @@
+profiles  配置文件
+
+requested 请求
+
+achieved, 实现
+
+relevant   有关
+
+authentication  身份验证
+
+identified 确认
+
+reserved 保留
+
+指向结构体的指针移动一个位置的结果
+
+calibration   校准
+
+exceptional
+
+surface   表面
+
+optionally  可选
+
+indicates   表明
+
+downlink   下行
+
+transmitted  传播
+
+exception   异常
+
+compound  复合
+
+subject 主题
+
+assistance   援助
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
